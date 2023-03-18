@@ -21,4 +21,4 @@ At Gunas Tech, we're committed to staying on the cutting edge of technology and 
 
 ### Get in touch
 
-Ready to get started? Send us an email at [vabhishek.me@gmail.com](mailto:vabhishek.me@gmail.com) to learn more about our services and how we can help your business thrive.
+Ready to get started? [Send us an email](mailto:vabhishek.me@gmail.com) to learn more about our services and how we can help your business thrive.
